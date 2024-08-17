@@ -1,4 +1,4 @@
-#Lo scopo di questo file è scaricare i file di COCO necessari per la rete tramite FIftyOne
+#Lo scopo di questo file è scaricare i file di COCO necessari per la rete tramite FiftyOne
 
 import os
 import fiftyone as fo
