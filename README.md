@@ -6,5 +6,14 @@ Per far funzionare correttamente tutte le parti del progetto sarà necessario us
 ## Structure
 Come il progetto è strutturato, con la descrizione dei vari file:
 
-#### datasetDownloader.py
+### datasetDownloader.py
 File con il solo compito di scaricare, se già non fatto, il dataset COCO per addestrare, verificare e testare il modello.
+
+### mask_rcnn folder
+Cartella che contiene l'implementazione della rete con rispettivi file di configurazione o di utilità:
+
+> #### config.py
+> TODO
+
+> #### model.py
+> TODO
