@@ -9,7 +9,6 @@ def checkEmptyFolder(path):
     return len( os.listdir(path)) == 0
 
 
-
 if __name__ == "__main__":
 
     #Creiamo (se non esiste) la cartella dove andranno le immagini/annotation
