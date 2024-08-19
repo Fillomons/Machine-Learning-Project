@@ -1,3 +1,6 @@
+# Ignoriamo la cartella dataset che dovrà essere scaricata personalmente
+dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
