@@ -1,7 +1,7 @@
 # Machine-Learning-Project
 
 ## Requirements
-Per far funzionare correttamente tutte le parti del progetto sarà necessario usare FiftyOne, per scaricare il dataset, e openmim per installare pacchetti e moduli del suo ecosistema; usare il file *requirements.txt* per installare entrambi nello stesso enviroment di Conda.
+Per far funzionare correttamente tutte le parti del progetto sarà necessario usare FiftyOne, per scaricare il dataset, e openmim per installare pacchetti e moduli del suo ecosistema; usare il file *environment.yml* per installare entrambi nello stesso enviroment di Conda.
 
 ## Structure
 Come il progetto è strutturato, con la descrizione dei vari file:
